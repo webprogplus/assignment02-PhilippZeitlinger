@@ -1,0 +1,22 @@
+figure {
+    margin-bottom: 2.5em;
+}
+nav, footer {
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+article {
+    background-color: pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+aside {
+    background-color: silver;
+    font-family: 'Courier New', Courier, monospace;
+}
+a.alerts {
+    color: red;
+    font-weight: bold;
+}
+a h3 {
+    border-bottom: 1px, dotted, red;
+}
